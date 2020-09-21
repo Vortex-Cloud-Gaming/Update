@@ -1,6 +1,6 @@
 # **Vortex Full Version**
 -------------
-![alt-текст] (file:///C:/Users/egor1/Desktop/W/Vortex.png).
+![alt-text] (file:///C:/Users/egor1/Desktop/W/Vortex.png).
 # Closed version for promoters.
 ### 💻 Only for Windows 7/8/8.1/10
 #### Windows Tech Specs
