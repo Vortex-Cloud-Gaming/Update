@@ -8,7 +8,7 @@
 * Processor - Intel Core i5 or better
 * OS - Windows 7 or higher (only x64-bit OS)
 * RAM - 8 GB or more
-* Disk space - 10 GB free space
+* Disk space - 10 GB free space.
 
 ## Vortex revolutionary tools and technologies provide the most comfortable and affordable cloud gaming.
 
