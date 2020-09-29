@@ -1,4 +1,4 @@
-# **Vortex Full Version**
+<h1>Vortex Full Version</h1>
 -------------
 ![alt-text](https://github.com/Vortex-Cloud-Gaming/Update/blob/master/Vortex.png).
 # Closed version for promoters.
