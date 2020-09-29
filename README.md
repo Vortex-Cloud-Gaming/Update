@@ -1,8 +1,8 @@
 # **Vortex Full Version**
 
-![alt-text](https://img.shields.io/npm/dy/silentlad).
-![alt-text](https://img.shields.io/github/stars/silent-lad/VueSolitaire.svg?style=flat).
-![alt-text](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat).
+![alt-text](https://img.shields.io/npm/dy/silentlad)
+![alt-text](https://img.shields.io/github/stars/silent-lad/VueSolitaire.svg?style=flat)
+![alt-text](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
 -------------
 ![alt-text](https://github.com/Vortex-Cloud-Gaming/Update/blob/master/Vortex.png).
 
@@ -16,8 +16,7 @@
 * Disk space - 10 GB free space.
 
 ## Vortex revolutionary tools and technologies provide the most comfortable and affordable cloud gaming.
-### Don't waste money on gaming hardware. You can play all demanding PC games on any device you choose. Potato PC? Mac Computer? Android phone? It’s easy with Vortex, the cloud gaming solution! Play your favorite games online on all your devices with just one subscription!
-#
+
 -------------
 
 ## Example of code issuance after installation.
