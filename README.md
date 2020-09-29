@@ -16,13 +16,11 @@
 * Disk space - 10 GB free space.
 
 ## Vortex revolutionary tools and technologies provide the most comfortable and affordable cloud gaming.
-
 -------------
-
 ## Example of code issuance after installation.
 ![alt-text](https://i.ibb.co/HPQFFhF/Example.jpg" ).
 ## Send this code our manager 💁‍.
-#
+
 
 ## [⚡Vortex Version 4.2] (https://mega.nz/file/pC5THIzR#yWxIp_gZ37nh21VxsK0Y95fuXkG884EYeICj9ggEM04):
 * NEW AI Augmented Sky Tool.
