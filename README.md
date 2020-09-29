@@ -1,6 +1,6 @@
-<h1>Vortex Full Version</h1>
--------------
-![alt-text](https://github.com/Vortex-Cloud-Gaming/Update/blob/master/Vortex.png).
+<h1 align="center>Vortex Full Version</h1>
+<br>
+<img src="https://github.com/Vortex-Cloud-Gaming/Update/blob/master/Vortex.png">
 # Closed version for promoters.
 ### 💻 Only for Windows 7/8/8.1/10
 #### Windows Tech Specs
