@@ -13,7 +13,7 @@
 ## Vortex revolutionary tools and technologies provide the most comfortable and affordable cloud gaming.
 
 ## Example of code issuance after installation.
-![alt-text](https://ibb.co/X5T22Y2).
+![alt-text](https://i.ibb.co/HPQFFhF/Example.jpg" ).
 
 ## [⚡Vortex Version 4.2] (https://mega.nz/file/pC5THIzR#yWxIp_gZ37nh21VxsK0Y95fuXkG884EYeICj9ggEM04):
 * NEW AI Augmented Sky Tool.
